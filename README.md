@@ -2,7 +2,7 @@ Hi, my name is Lewis Muthuri
 ## About Me
 - 🎓 MSc in Applied Statistics  
 - 📊 Learning Data Analysis (Python, SQL, Power BI, Tableau)  
-- 💼 Aspiring Data Analyst  
+- 💼 Aspiring Junior Data Analyst/Data Science  
 
 ## Skills
 - Python  
