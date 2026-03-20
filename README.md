@@ -1,19 +1,30 @@
-Hi, my Name is Lewis Muthuri
+Hi, my name is Lewis Gituma Muthuri
 ## About Me
-I am an Msc graduate in Applied Statistics with over 20 years of teaching
-I am passionate about transforming data into actionable insights and I aim to transition into Data analysis
+I'm a data enthuasist with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, perfprming analysis and Visualizung results to support data-driven decision-making.
+
 
 ## Skills
-Data Cleaning & Analysis: Python(pandas, numpy), SQL
-Data Visyalization: Tableau, PowerBI
-Statistics & Modeling: Hyphosis Testing, Regression, Descriptive and Inferential Statistics
-Others:Excel , Data Reporting
+Performing & Analysis: Python(pandas, numpy), SQL,Excel
+Data Visualization: Matplotlib, Seaborn, Tableau, PowerBI
+
+## Tools & Platforms
+GitHub, Jupyter Notebook, VS Code
+
+## GitHub Stats
+Username:LEWIS872
 
 ## Projects
-Portifolio in Progress: Data analysis projects in Python, SQL and Tableau
+Project 1:Bitcoin Analysis
+Project 2:
+Project 3:
 
-## Contact
+## Future project
+Advanced SQL,& Database Optimization
+Machine learning & Predictive Analytics
+Cloud Data Platforms (AWS/AZURE)
+
+## Connect with me
 Linkedln:https://www.linkedin.com/in/lewis-gituma-muthuri-b62175306/
 Email:lewisgituma5@gmail.com
 
-**LEWIS872/LEWIS872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
